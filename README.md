@@ -113,5 +113,16 @@ The dataset started as a randomly generated 10,000-record CSV, so most fields we
 ├── sql/
 │   └── 01Changes.sql
 ├── screenshots/
-├── icons/
 └── README.md
+
+---
+
+## Screenshots
+https://github.com/NehaBanjara/Hospital-Management-Analytics-Dashboard/blob/main/Home.png
+https://github.com/NehaBanjara/Hospital-Management-Analytics-Dashboard/blob/main/Executive%20summary.png
+https://github.com/NehaBanjara/Hospital-Management-Analytics-Dashboard/blob/main/Financial%20insightss.png
+https://github.com/NehaBanjara/Hospital-Management-Analytics-Dashboard/blob/main/Patients%20insights.png
+https://github.com/NehaBanjara/Hospital-Management-Analytics-Dashboard/blob/main/Patient%20details%20(Drill%20through).png
+
+
+
