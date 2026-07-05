@@ -104,6 +104,7 @@ The dataset started as a randomly generated 10,000-record CSV, so most fields we
 - **Power BI Desktop** — Data modeling, Power Query, DAX, and dashboard development
 - **MySQL / MySQL Workbench** — Data cleaning and transformation
 - **DAX** — KPI calculations and business metrics
+- Excel
 
 ---
 
